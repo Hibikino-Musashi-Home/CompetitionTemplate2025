@@ -1,30 +1,19 @@
 ## Locations
+
 | Number | Name  | Object Category
 | ------------ | ----------- | ----------- |
-| 1 | bed (p) |
-| 2 | bedside table (p) |
+| 1 | kitchen storage (p) | container |
+| 2 | sink |
 | 3 | shelf (p) | cleaning supplies |
-| 4 | trashbin |
-| 5 | dishwasher (p) |
-| 6 | potted plant |
-| 7 | kitchen table (p) | dishes |
-| 8 | chairs |
-| 9 | pantry (p) | food |
-| 10 | refrigerator (p) |
-| 11 | sink (p) |
-| 12 | cabinet (p) | drinks |
-| 13 | coatrack |
-| 14 | desk (p) | fruits |
-| 15 | armchair |
-| 16 | desk lamp |
-| 17 | waste basket |
-| 18 | tv stand (p) |
-| 19 | storage rack (p) |
-| 20 | lamp |
-| 21 | side tables (p) | snacks |
-| 22 | sofa (p) |
-| 23 | bookshelf (p) | toys |
-| 24 | entrance |
-| 25 | exit |
+| 4 | storage shelf | drinks |
+| 5 | storage box |
+| 6 | sofa (p) |  |
+| 7 | chairs (p) |
+| 8 | kitchen counter (p) | foods |
+| 9 | dining table (p) | fruit |
+| 10 | living counter (p) | snack |
+| 11 | drawer (p) | dish |
+| 12 | entrance |
+| 13 | exit |
 
 (p) indicated whether objects can be placed at the location
