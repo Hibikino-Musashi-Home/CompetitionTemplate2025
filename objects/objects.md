@@ -17,11 +17,10 @@
 
 | Objectname               |  Image                   |
 :-------------------------:|:-------------------------:
-| tomato_juice (heavy) |  ![]() |
+| tomato_juice  |  ![]() |
 | oorong_tea  |  ![]() |
-| mezzo_mix  |  ![]() |
 | coffee  |  ![]() |
-| orange  |  ![]() |
+| orange juice (heavy)  |  ![]() |
 | fanta  |  ![]() |
 
 # Class food (food)
