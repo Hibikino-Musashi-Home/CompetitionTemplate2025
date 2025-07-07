@@ -9,11 +9,13 @@
 | 5 | storage box |
 | 6 | sofa (p) |  |
 | 7 | chairs (p) |
-| 8 | kitchen counter (p) | foods |
+| 8 | dining counter (p) | foods |
 | 9 | dining table (p) | fruit |
 | 10 | living counter (p) | snack |
 | 11 | drawer (p) | dish |
-| 12 | entrance |
-| 13 | exit |
+| 12 | cabinet (p) |
+| 13 | dishwasher |
+| 14 | entrance |
+| 15 | exit |
 
 (p) indicated whether objects can be placed at the location
