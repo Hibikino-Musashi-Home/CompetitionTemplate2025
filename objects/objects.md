@@ -4,7 +4,7 @@
 :-------------------------:|:-------------------------:
 | cornflakes_container  |  ![]() |
 
-# Class cleaning_supplies (cleaning_supply)
+# Class cleaning supplies (cleaning supply)
 
 | Objectname               |  Image                   |
 :-------------------------:|:-------------------------:
